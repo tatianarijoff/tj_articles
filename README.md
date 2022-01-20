@@ -20,7 +20,7 @@ tj_articles requires python3 with
 - biopython 
 - pylatex
 - worlcloud
-```
+
 ## Tasks performed by tj_articles
 
 The tj_articles
